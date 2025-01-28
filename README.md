@@ -1,15 +1,15 @@
 # Data Communication & Networking Project
 
-Welcome to the **4th Semester Networking Assignment Repository**. This repository contains the assignment PDF and a project video. Below is an HTML snippet that can be used to showcase the content on a webpage.
+Welcome to the **4th Semester Networking Assignment Repository**. This repository contains the assignment PDF and a project video. Below is an **PDF** and **Video Link** of our project.
 
-[](https://github.com/M-Hamza-Hassaan/4th-Sem-Networking-Assignment/raw/main/DataCommunication%26Networking.pdf)
+![Picture](https://github.com/M-Hamza-Hassaan/4th-Sem-Networking-Assignment/blob/main/DataCommunication%26Networking.webp)
 
 ---
 
 ## 📄 Assignment PDF
 
 The assignment can be directly viewed or downloaded using the following link:
-[Data Communication & Networking Assignment PDF](https://github.com/M-Hamza-Hassaan/4th-Sem-Networking-Assignment/raw/main/DataCommunication%26Networking.pdf)
+[Data Communication & Networking Assignment PDF](https://github.com/M-Hamza-Hassaan/4th-Sem-Networking-Assignment/blob/main/DataCommunication%26Networking.pdf)
 
 ---
 
