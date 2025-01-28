@@ -1,4 +1,4 @@
-# Data Communication & Networking Project- The WIFI Range Extender
+# DCN Project- The WIFI Range Extender
 
 Welcome to the **4th Semester Networking Assignment Repository**. This repository contains the assignment PDF and a project video. Below is an **PDF** and **Video Link** of our project.
 
