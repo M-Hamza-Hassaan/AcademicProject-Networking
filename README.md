@@ -1,10 +1,12 @@
 # DCN Project- The WIFI Range Extender
 
-Welcome to the **My 4th Semester Networking Assignment Repository**. This repository contains the assignment PDF and a project video. Below is an **PDF** and **Video Link** of our project.
----
-# **WIFI Extender Configuration & Network Performance Analysis**  
+Welcome to the My 4th Semester Networking Assignment Repository. This repository contains the assignment PDF and a project video.
 
-## **Project Overview**  
+---
+
+## WIFI Extender Configuration & Network Performance Analysis
+
+### **Project Overview**  
 This project focuses on setting up and configuring a **Tenda WIFI extender** to enhance network coverage and performance. The study involves **network setup, testing, and troubleshooting** to ensure optimal connectivity.  
 
 ## **Project Objectives**  
